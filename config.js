@@ -18,7 +18,7 @@ module.exports = {
     BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "MEGALODON-MD",  // Bot's display name
     MODE: process.env.MODE || "public",        // Bot mode: public/private/group/inbox
     // ===== OWNER & DEVELOPER SETTINGS =====
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "50940210141",  // Owner's WhatsApp number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "50940210141",  // 
     
     OWNER_NAME: process.env.OWNER_NAME || getConfig("DAGMA") || "",           // Owner's name
     
